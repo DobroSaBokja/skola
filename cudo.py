@@ -1,1 +1,5 @@
-print("hi")
+print("Kako se zoves")
+ime = input()
+print("Super, " + ime + " . Kak si!")
+input()
+print("bruh")
